@@ -1,9 +1,13 @@
 # inclass-WebGL-cs-NicoB
 
 ### Project description: 
+Old:
 This project has a screen (960 x 600) in which there is a infotext, a button and a picture of a ball.
 If you press the button the ball will change it's position always (V2) in one out of four (at the beginning) or three
 (after pressing the button one time) possible possitions.
+
+New:
+There are two extra Buttons to switch between V1 and V2 + a slider to scale the ball size
 
 * The game is not available 
 

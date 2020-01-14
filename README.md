@@ -32,6 +32,8 @@ WebGL has to be installed.
 
 ### Third party material: 
 Ball: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Soccer_ball_animated.svg/768px-Soccer_ball_animated.svg.png
+ReadMe: https://github.com/3ahmnm-htlsbg/home-WebGl-cs-smeerws 
+
 
 ### Project state: 
 100%
